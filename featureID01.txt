@@ -1,0 +1,8 @@
+cat > feature-login.txt << 'EOF'
+# Login Feature
+- Add OAuth support
+- Add password reset flow
+EOF
+
+git add feature-login.txt
+git commit -m "add login feature"
