@@ -1,0 +1,7 @@
+# App Configuration
+APP_NAME=MainProject
+VERSION=1.0.0
+ENVIRONMENT=development
+
+# Submodule paths
+UTILS_LIB_PATH=libs/utils
